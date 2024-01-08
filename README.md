@@ -1,2 +1,1 @@
-# iOS
-iOS개발 공부 -ing
+### iOS 앱개발 바이블 by FastCampus
